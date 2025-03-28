@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Arun/shulkbox_B/VSCODE_ALL/manim_projects/media/videos/test2(plot)/1080p60/partial_movie_files/Taylor/3977891868_1553232456_1493016830.mp4'
+file 'file:C:/Users/Arun/shulkbox_B/VSCODE_ALL/manim_projects/media/videos/test2(plot)/1080p60/partial_movie_files/Taylor/2852726489_2909044813_4015185623.mp4'
+file 'file:C:/Users/Arun/shulkbox_B/VSCODE_ALL/manim_projects/media/videos/test2(plot)/1080p60/partial_movie_files/Taylor/2852726489_973258262_3330850882.mp4'
+file 'file:C:/Users/Arun/shulkbox_B/VSCODE_ALL/manim_projects/media/videos/test2(plot)/1080p60/partial_movie_files/Taylor/2852726489_2635088162_4054543719.mp4'
+file 'file:C:/Users/Arun/shulkbox_B/VSCODE_ALL/manim_projects/media/videos/test2(plot)/1080p60/partial_movie_files/Taylor/2852726489_3885923314_1399395205.mp4'
+file 'file:C:/Users/Arun/shulkbox_B/VSCODE_ALL/manim_projects/media/videos/test2(plot)/1080p60/partial_movie_files/Taylor/2852726489_3519121736_2526127247.mp4'
+file 'file:C:/Users/Arun/shulkbox_B/VSCODE_ALL/manim_projects/media/videos/test2(plot)/1080p60/partial_movie_files/Taylor/2852726489_1142441293_3045857865.mp4'
+file 'file:C:/Users/Arun/shulkbox_B/VSCODE_ALL/manim_projects/media/videos/test2(plot)/1080p60/partial_movie_files/Taylor/2852726489_1999589605_3890248090.mp4'
+file 'file:C:/Users/Arun/shulkbox_B/VSCODE_ALL/manim_projects/media/videos/test2(plot)/1080p60/partial_movie_files/Taylor/2852726489_1224972000_1822962826.mp4'
+file 'file:C:/Users/Arun/shulkbox_B/VSCODE_ALL/manim_projects/media/videos/test2(plot)/1080p60/partial_movie_files/Taylor/2852726489_194145617_359825528.mp4'
+file 'file:C:/Users/Arun/shulkbox_B/VSCODE_ALL/manim_projects/media/videos/test2(plot)/1080p60/partial_movie_files/Taylor/2852726489_245222138_2043101231.mp4'
